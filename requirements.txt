@@ -1,0 +1,5 @@
+tqdm
+torch
+numpy
+sacrebleu
+transformers>=4.46.3
